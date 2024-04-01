@@ -1,0 +1,11 @@
+#ignore all files!
+*.*
+
+#except for these...
+!.gitignore
+!*.c
+!*.S
+!Makefile
+!.project
+!.cproject
+!memdump.txt
